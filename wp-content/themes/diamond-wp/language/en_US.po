@@ -1,0 +1,3370 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Diamond WP v1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-03-20 16:35:25+0000\n"
+"Last-Translator: bp <bitpublimedia@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:79
+#@ diamond-wp
+msgid "Error 404 - Page not found!"
+msgstr ""
+
+#: archive.php:17
+#@ diamond-wp
+msgid "Viewing posts categorised under"
+msgstr ""
+
+#: archive.php:25
+#@ diamond-wp
+msgid "Showing posts tagged with"
+msgstr ""
+
+#: archive.php:46
+#@ diamond-wp
+msgid "Viewing posts from"
+msgstr ""
+
+#: comments.php:16
+#@ diamond-wp
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:34
+#@ diamond-wp
+msgid "Comments"
+msgstr ""
+
+#: comments.php:46
+#@ diamond-wp
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:47
+#@ diamond-wp
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#: comments.php:48
+#@ diamond-wp
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: comments.php:60
+#@ diamond-wp
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:74
+#: comments.php:79
+#@ diamond-wp
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:80
+#: framework/composer/components/vc_ewf_message_box.php:74
+#@ diamond-wp
+msgid "Message"
+msgstr ""
+
+#: comments.php:86
+#, php-format
+#@ diamond-wp
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:92
+#, php-format
+#@ diamond-wp
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:99
+#@ diamond-wp
+msgid "Your email address will not be published."
+msgstr ""
+
+#: comments.php:103
+#, php-format
+#@ diamond-wp
+msgid "You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags and attributes: %s"
+msgstr ""
+
+#: comments.php:112
+#@ diamond-wp
+msgid "Your Name"
+msgstr ""
+
+#: comments.php:113
+#@ diamond-wp
+msgid "Your name"
+msgstr ""
+
+#: comments.php:119
+#: comments.php:120
+#@ diamond-wp
+msgid "Your Email Adress"
+msgstr ""
+
+#: comments.php:125
+#: comments.php:126
+#@ diamond-wp
+msgid "Website"
+msgstr ""
+
+#: comments.php:131
+#@ diamond-wp
+msgid "Send!"
+msgstr ""
+
+#: comments.php:132
+#@ diamond-wp
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:133
+#, php-format
+#@ diamond-wp
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:134
+#@ diamond-wp
+msgid "Cancel Reply"
+msgstr ""
+
+#: framework/admin/admin-framework.php:213
+#: framework/modules/ewf-header/ewf-modHeader.php:701
+#@ diamond-wp
+msgid "Background color"
+msgstr ""
+
+#: framework/admin/admin-framework.php:222
+#@ diamond-wp
+msgid "Background image"
+msgstr ""
+
+#: framework/admin/admin-framework.php:244
+#@ diamond-wp
+msgid "Upload image"
+msgstr ""
+
+#: framework/admin/admin-framework.php:245
+#@ diamond-wp
+msgid "Remove image"
+msgstr ""
+
+#: framework/admin/admin-framework.php:246
+#@ diamond-wp
+msgid "Choose pattern"
+msgstr ""
+
+#: framework/admin/admin-framework.php:247
+#: framework/functions-menus.php:504
+#: framework/modules/ewf-layout/ewf-modLayout.php:465
+#: framework/modules/ewf-layout/ewf-modLayout.php:480
+#: framework/modules/ewf-layout/ewf-modLayout.php:494
+#@ diamond-wp
+msgid "Cancel"
+msgstr ""
+
+#: framework/admin/admin-framework.php:263
+#@ diamond-wp
+msgid "Background repeat"
+msgstr ""
+
+#: framework/admin/admin-framework.php:270
+#@ diamond-wp
+msgid "Repeat Horizontal"
+msgstr ""
+
+#: framework/admin/admin-framework.php:271
+#@ diamond-wp
+msgid "Repeat Vertical"
+msgstr ""
+
+#: framework/admin/admin-framework.php:272
+#@ diamond-wp
+msgid "No Repeat"
+msgstr ""
+
+#: framework/admin/admin-framework.php:285
+#@ diamond-wp
+msgid "Background position"
+msgstr ""
+
+#: framework/admin/admin-framework.php:291
+#@ diamond-wp
+msgid "Align Right Top"
+msgstr ""
+
+#: framework/admin/admin-framework.php:292
+#@ diamond-wp
+msgid "Align Center Top"
+msgstr ""
+
+#: framework/admin/admin-framework.php:293
+#@ diamond-wp
+msgid "Align Left Top"
+msgstr ""
+
+#: framework/admin/admin-framework.php:294
+#@ diamond-wp
+msgid "Align Right Center"
+msgstr ""
+
+#: framework/admin/admin-framework.php:295
+#@ diamond-wp
+msgid "Align Center Center"
+msgstr ""
+
+#: framework/admin/admin-framework.php:296
+#@ diamond-wp
+msgid "Align Left Center"
+msgstr ""
+
+#: framework/admin/admin-framework.php:297
+#@ diamond-wp
+msgid "Align Right Bottom"
+msgstr ""
+
+#: framework/admin/admin-framework.php:298
+#@ diamond-wp
+msgid "Align Center Bottom"
+msgstr ""
+
+#: framework/admin/admin-framework.php:299
+#@ diamond-wp
+msgid "Align Left Bottom"
+msgstr ""
+
+#: framework/admin/admin-framework.php:312
+#@ diamond-wp
+msgid "Background attachment"
+msgstr ""
+
+#: framework/admin/admin-framework.php:319
+#@ diamond-wp
+msgid "Background Fixed"
+msgstr ""
+
+#: framework/admin/admin-framework.php:320
+#@ diamond-wp
+msgid "Background Scroll"
+msgstr ""
+
+#: framework/admin/admin-framework.php:334
+#@ diamond-wp
+msgid "Background stretch & fit"
+msgstr ""
+
+#: framework/admin/admin-framework.php:387
+#@ diamond-wp
+msgid "Change Image"
+msgstr ""
+
+#: framework/admin/admin-framework.php:422
+#@ diamond-wp
+msgid "Columns"
+msgstr ""
+
+#: framework/admin/admin-framework.php:423
+#@ diamond-wp
+msgid "Edit Size"
+msgstr ""
+
+#: framework/admin/admin-framework.php:430
+#: framework/modules/ewf-layout/ewf-modLayout.php:306
+#@ diamond-wp
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/admin-framework.php:444
+#@ diamond-wp
+msgid "Press the plus button to increase column size"
+msgstr ""
+
+#: framework/admin/admin-framework.php:587
+#@ diamond-wp
+msgid "Title Sample"
+msgstr ""
+
+#: framework/admin/admin-framework.php:588
+#@ diamond-wp
+msgid "paragraph sample here"
+msgstr ""
+
+#: framework/admin/admin-framework.php:812
+#@ diamond-wp
+msgid "Theme Options"
+msgstr ""
+
+#: framework/admin/admin-framework.php:884
+#: framework/modules/ewf-layout/ewf-modLayout.php:496
+#@ diamond-wp
+msgid "Save changes"
+msgstr ""
+
+#: framework/admin/admin-framework.php:887
+#@ diamond-wp
+msgid "Restore Defaults"
+msgstr ""
+
+#: framework/admin/admin-framework.php:896
+#@ diamond-wp
+msgid "The settings have been successfully saved!"
+msgstr ""
+
+#: framework/admin/admin-framework.php:900
+#@ diamond-wp
+msgid "Default settings have been restored!"
+msgstr ""
+
+#: framework/admin/admin-framework.php:904
+#@ diamond-wp
+msgid "The theme settings have been restored to default, install triggered!"
+msgstr ""
+
+#: framework/admin/admin-framework.php:919
+#@ diamond-wp
+msgid "General"
+msgstr ""
+
+#: framework/admin/admin-framework.php:920
+#: framework/composer/components/__vc_ewf_our_process.php:38
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:53
+#: framework/composer/components/vc_ewf_button.php:86
+#: framework/composer/components/vc_ewf_diamond.php:41
+#: framework/composer/components/vc_ewf_divider.php:28
+#: framework/composer/components/vc_ewf_headline.php:88
+#: framework/composer/components/vc_ewf_iconbox.php:159
+#: framework/composer/components/vc_ewf_logo.php:54
+#: framework/composer/components/vc_ewf_map.php:27
+#: framework/composer/components/vc_ewf_message_box.php:59
+#: framework/composer/components/vc_ewf_milestone.php:69
+#: framework/composer/components/vc_ewf_piechart.php:44
+#: framework/composer/components/vc_ewf_progress.php:40
+#: framework/composer/components/vc_ewf_social.php:145
+#: framework/composer/components/vc_ewf_team_member.php:224
+#: framework/composer/components/vc_ewf_testimonial.php:98
+#@ diamond-wp
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/admin-framework.php:921
+#@ diamond-wp
+msgid "Colors"
+msgstr ""
+
+#: framework/admin/admin-framework.php:922
+#: framework/modules/ewf-header/ewf-modHeader.php:464
+#@ diamond-wp
+msgid "Header"
+msgstr ""
+
+#: framework/admin/admin-framework.php:923
+#@ diamond-wp
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/admin-framework.php:1285
+#@ diamond-wp
+msgid "Select page"
+msgstr ""
+
+#: framework/admin/admin-framework.php:1298
+#@ diamond-wp
+msgid "No title"
+msgstr ""
+
+#: framework/admin/admin-options.php:65
+#@ diamond-wp
+msgid "Favicon"
+msgstr ""
+
+#: framework/admin/admin-options.php:66
+#: framework/admin/admin-options.php:74
+#@ diamond-wp
+msgid "Upload your favicon"
+msgstr ""
+
+#: framework/admin/admin-options.php:73
+#@ diamond-wp
+msgid "Favicon Retina"
+msgstr ""
+
+#: framework/admin/admin-options.php:82
+#@ diamond-wp
+msgid "Boxed in"
+msgstr ""
+
+#: framework/admin/admin-options.php:88
+#@ diamond-wp
+msgid "Full Width"
+msgstr ""
+
+#: framework/admin/admin-options.php:93
+#@ diamond-wp
+msgid "Layout style"
+msgstr ""
+
+#: framework/admin/admin-options.php:94
+#@ diamond-wp
+msgid "Select the layout"
+msgstr ""
+
+#: framework/admin/admin-options.php:101
+#@ diamond-wp
+msgid "Page not found"
+msgstr ""
+
+#: framework/admin/admin-options.php:102
+#@ diamond-wp
+msgid "Select the 404 page from your existing pages"
+msgstr ""
+
+#: framework/admin/admin-options.php:111
+#@ diamond-wp
+msgid "Content width"
+msgstr ""
+
+#: framework/admin/admin-options.php:112
+#@ diamond-wp
+msgid "Select the content width"
+msgstr ""
+
+#: framework/admin/admin-options.php:120
+#: framework/admin/admin-options.php:527
+#: framework/admin/admin-options.php:545
+#@ diamond-wp
+msgid "Background"
+msgstr ""
+
+#: framework/admin/admin-options.php:121
+#@ diamond-wp
+msgid "Adjust background settings"
+msgstr ""
+
+#: framework/admin/admin-options.php:143
+#@ diamond-wp
+msgid "Google Analytics"
+msgstr ""
+
+#: framework/admin/admin-options.php:144
+#@ diamond-wp
+msgid "Paste the analytics code"
+msgstr ""
+
+#: framework/admin/admin-options.php:150
+#@ diamond-wp
+msgid "Extra CSS Code"
+msgstr ""
+
+#: framework/admin/admin-options.php:151
+#@ diamond-wp
+msgid "Paste extra css code here"
+msgstr ""
+
+#: framework/admin/admin-options.php:164
+#@ diamond-wp
+msgid "Use custom typography"
+msgstr ""
+
+#: framework/admin/admin-options.php:165
+#@ diamond-wp
+msgid "You can overwrite custom fonts"
+msgstr ""
+
+#: framework/admin/admin-options.php:170
+#@ diamond-wp
+msgid "Global Font"
+msgstr ""
+
+#: framework/admin/admin-options.php:175
+#: framework/admin/admin-options.php:222
+#: framework/admin/admin-options.php:271
+#: framework/admin/admin-options.php:317
+#: framework/admin/admin-options.php:363
+#: framework/admin/admin-options.php:409
+#: framework/admin/admin-options.php:455
+#@ diamond-wp
+msgid "Font family"
+msgstr ""
+
+#: framework/admin/admin-options.php:176
+#: framework/admin/admin-options.php:223
+#: framework/admin/admin-options.php:272
+#: framework/admin/admin-options.php:318
+#: framework/admin/admin-options.php:364
+#: framework/admin/admin-options.php:410
+#: framework/admin/admin-options.php:456
+#@ diamond-wp
+msgid "Set the font of the body"
+msgstr ""
+
+#: framework/admin/admin-options.php:189
+#: framework/admin/admin-options.php:236
+#: framework/admin/admin-options.php:285
+#: framework/admin/admin-options.php:331
+#: framework/admin/admin-options.php:377
+#: framework/admin/admin-options.php:423
+#: framework/admin/admin-options.php:469
+#@ diamond-wp
+msgid "Font size"
+msgstr ""
+
+#: framework/admin/admin-options.php:190
+#: framework/admin/admin-options.php:237
+#: framework/admin/admin-options.php:286
+#: framework/admin/admin-options.php:332
+#: framework/admin/admin-options.php:378
+#: framework/admin/admin-options.php:424
+#: framework/admin/admin-options.php:470
+#@ diamond-wp
+msgid "Set fize of the font"
+msgstr ""
+
+#: framework/admin/admin-options.php:198
+#: framework/admin/admin-options.php:245
+#: framework/admin/admin-options.php:294
+#: framework/admin/admin-options.php:340
+#: framework/admin/admin-options.php:386
+#: framework/admin/admin-options.php:432
+#: framework/admin/admin-options.php:478
+#@ diamond-wp
+msgid "Line height"
+msgstr ""
+
+#: framework/admin/admin-options.php:199
+#: framework/admin/admin-options.php:246
+#: framework/admin/admin-options.php:295
+#: framework/admin/admin-options.php:341
+#: framework/admin/admin-options.php:387
+#: framework/admin/admin-options.php:433
+#: framework/admin/admin-options.php:479
+#@ diamond-wp
+msgid "Set the font line height"
+msgstr ""
+
+#: framework/admin/admin-options.php:207
+#: framework/admin/admin-options.php:254
+#: framework/admin/admin-options.php:303
+#: framework/admin/admin-options.php:349
+#: framework/admin/admin-options.php:395
+#: framework/admin/admin-options.php:441
+#: framework/admin/admin-options.php:487
+#@ diamond-wp
+msgid "Margin bottom"
+msgstr ""
+
+#: framework/admin/admin-options.php:208
+#: framework/admin/admin-options.php:255
+#: framework/admin/admin-options.php:304
+#: framework/admin/admin-options.php:350
+#: framework/admin/admin-options.php:396
+#: framework/admin/admin-options.php:442
+#: framework/admin/admin-options.php:488
+#@ diamond-wp
+msgid "Set the bottom spacing"
+msgstr ""
+
+#: framework/admin/admin-options.php:217
+#@ diamond-wp
+msgid "Font - Heading 1"
+msgstr ""
+
+#: framework/admin/admin-options.php:265
+#@ diamond-wp
+msgid "Font - Heading 2"
+msgstr ""
+
+#: framework/admin/admin-options.php:312
+#@ diamond-wp
+msgid "Font - Heading 3"
+msgstr ""
+
+#: framework/admin/admin-options.php:358
+#@ diamond-wp
+msgid "Font - Heading 4"
+msgstr ""
+
+#: framework/admin/admin-options.php:404
+#@ diamond-wp
+msgid "Font - Heading 5"
+msgstr ""
+
+#: framework/admin/admin-options.php:450
+#@ diamond-wp
+msgid "Font - Heading 6"
+msgstr ""
+
+#: framework/admin/admin-options.php:504
+#@ diamond-wp
+msgid "Header logo"
+msgstr ""
+
+#: framework/admin/admin-options.php:505
+#@ diamond-wp
+msgid "Upload logo in the header"
+msgstr ""
+
+#: framework/admin/admin-options.php:511
+#@ diamond-wp
+msgid "Sticky header"
+msgstr ""
+
+#: framework/admin/admin-options.php:512
+#@ diamond-wp
+msgid "Keep the header visible after scrolling"
+msgstr ""
+
+#: framework/admin/admin-options.php:528
+#@ diamond-wp
+msgid "Adjust footer background settings"
+msgstr ""
+
+#: framework/admin/admin-options.php:546
+#@ diamond-wp
+msgid "Adjust footer top background settings"
+msgstr ""
+
+#: framework/admin/admin-options.php:561
+#@ diamond-wp
+msgid "Footer section"
+msgstr ""
+
+#: framework/admin/admin-options.php:562
+#@ diamond-wp
+msgid "Show footer section at the bottom"
+msgstr ""
+
+#: framework/admin/admin-options.php:570
+#@ diamond-wp
+msgid "Footer columns"
+msgstr ""
+
+#: framework/admin/admin-options.php:571
+#: framework/admin/admin-options.php:588
+#@ diamond-wp
+msgid "Select the number of columns"
+msgstr ""
+
+#: framework/admin/admin-options.php:578
+#@ diamond-wp
+msgid "Footer sub"
+msgstr ""
+
+#: framework/admin/admin-options.php:579
+#@ diamond-wp
+msgid "Show sub footer section at the bottom"
+msgstr ""
+
+#: framework/admin/admin-options.php:587
+#@ diamond-wp
+msgid "Footer sub columns"
+msgstr ""
+
+#: framework/admin/admin-options.php:603
+#@ diamond-wp
+msgid "Use custom colors"
+msgstr ""
+
+#: framework/admin/admin-options.php:604
+#@ diamond-wp
+msgid "You can overwrite the default color scheme"
+msgstr ""
+
+#: framework/admin/admin-options.php:611
+#@ diamond-wp
+msgid "Accent color 1"
+msgstr ""
+
+#: framework/admin/admin-options.php:612
+#: framework/admin/admin-options.php:620
+#: framework/admin/admin-options.php:628
+#: framework/admin/admin-options.php:636
+#: framework/admin/admin-options.php:644
+#: framework/admin/admin-options.php:676
+#@ diamond-wp
+msgid "Specify the color you want to use."
+msgstr ""
+
+#: framework/admin/admin-options.php:619
+#@ diamond-wp
+msgid "Accent Color 2"
+msgstr ""
+
+#: framework/admin/admin-options.php:627
+#@ diamond-wp
+msgid "Header top background color"
+msgstr ""
+
+#: framework/admin/admin-options.php:635
+#@ diamond-wp
+msgid "Header top font color"
+msgstr ""
+
+#: framework/admin/admin-options.php:643
+#@ diamond-wp
+msgid "Content font color"
+msgstr ""
+
+#: framework/admin/admin-options.php:675
+#@ diamond-wp
+msgid "Footer font color"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:17
+#: framework/composer/components/__vc_ewf_blog_posts.php:174
+#: templates/blog-item-default.php:92
+#@ diamond-wp
+msgid "read more"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:18
+#@ diamond-wp
+msgid "Read our latest posts"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:83
+#: framework/widgets/widget-latest-posts.php:77
+#@ diamond-wp
+msgid "by"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:143
+#@ diamond-wp
+msgid "Blog Posts"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:147
+#@ diamond-wp
+msgid "Show 2 blog posts from a specified category"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:148
+#: framework/composer/components/__vc_ewf_slider_features.php:86
+#: framework/composer/components/vc_ewf_iconbox.php:201
+#: framework/composer/components/vc_ewf_pricing.php:65
+#@ diamond-wp
+msgid "Content"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:172
+#@ diamond-wp
+msgid "Read more title"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:175
+#@ diamond-wp
+msgid "Read more title from blog article"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:181
+#@ diamond-wp
+msgid "Button title"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:183
+#@ diamond-wp
+msgid "read our latest posts"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:184
+#: framework/composer/components/__vc_ewf_blog_posts.php:193
+#@ diamond-wp
+msgid "Read more title from the button"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_blog_posts.php:190
+#@ diamond-wp
+msgid "Button link"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:7
+#: framework/composer/components/__vc_ewf_process_horizontal.php:13
+#: framework/composer/components/vc_ewf_button.php:7
+#: framework/composer/components/vc_ewf_headline.php:7
+#: framework/composer/components/vc_ewf_headline.php:105
+#: framework/composer/components/vc_ewf_process_vertical.php:13
+#: framework/widgets/widget-call-to-action.php:68
+#@ diamond-wp
+msgid "Sample title"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:9
+#: framework/composer/components/__vc_ewf_our_process.php:64
+#@ diamond-wp
+msgid "Number first"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:33
+#@ diamond-wp
+msgid "Single Process"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:37
+#@ diamond-wp
+msgid "Add a process title with number and details"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:44
+#: framework/composer/components/__vc_ewf_process_horizontal.php:87
+#: framework/composer/components/__vc_ewf_process_horizontal.php:89
+#: framework/composer/components/vc_ewf_headline.php:103
+#: framework/composer/components/vc_ewf_iconbox.php:8
+#: framework/composer/components/vc_ewf_iconbox.php:167
+#: framework/composer/components/vc_ewf_iconbox.php:169
+#: framework/composer/components/vc_ewf_milestone.php:8
+#: framework/composer/components/vc_ewf_milestone.php:75
+#: framework/composer/components/vc_ewf_milestone.php:77
+#: framework/composer/components/vc_ewf_piechart.php:52
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:306
+#: framework/composer/components/vc_ewf_process_vertical.php:107
+#: framework/composer/components/vc_ewf_process_vertical.php:109
+#: framework/composer/components/vc_ewf_progress.php:46
+#: framework/composer/components/vc_ewf_progress.php:48
+#: framework/modules/ewf-header/ewf-modHeader.php:851
+#@ diamond-wp
+msgid "Title"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:46
+#@ diamond-wp
+msgid "Process title"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:47
+#@ diamond-wp
+msgid "Specify the title that will fit in the hexagon."
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:53
+#: framework/composer/components/vc_ewf_milestone.php:96
+#: framework/composer/components/vc_ewf_process_vertical.php:79
+#: framework/composer/components/vc_ewf_process_vertical.php:97
+#@ diamond-wp
+msgid "Number"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:56
+#@ diamond-wp
+msgid "Specify the number positioned in front or after the hexagon."
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:62
+#@ diamond-wp
+msgid "Position"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:64
+#@ diamond-wp
+msgid "Title first"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:65
+#@ diamond-wp
+msgid "Specify the arrangement of number and hexagon"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:71
+#@ diamond-wp
+msgid "Process description"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_our_process.php:73
+#: framework/composer/components/vc_ewf_iconbox.php:203
+#: framework/composer/components/vc_ewf_milestone.php:125
+#: framework/composer/components/vc_ewf_team_member.php:353
+#@ diamond-wp
+msgid "I am test text block. Click edit button to change this text."
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:175
+#@ diamond-wp
+msgid "See More"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:328
+#@ diamond-wp
+msgid "Portfolio List"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:332
+#@ diamond-wp
+msgid "Add a classic list with porftolio items"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:333
+#: framework/composer/components/vc_ewf_portfolio_grid.php:338
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:33
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:59
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:300
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:308
+#: framework/composer/components/vc_ewf_portfolio_strip.php:250
+#@ diamond-wp
+msgid "Portfolio"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:339
+#: framework/composer/components/vc_ewf_portfolio_grid.php:365
+#@ diamond-wp
+msgid "How should the portfolio items to load, be chosen"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:342
+#: framework/composer/components/vc_ewf_portfolio_grid.php:367
+#: framework/composer/components/vc_ewf_portfolio_strip.php:259
+#@ diamond-wp
+msgid "Latest projects"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:343
+#@ diamond-wp
+msgid "Load a single project"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:344
+#: framework/composer/components/vc_ewf_portfolio_grid.php:367
+#: framework/composer/components/vc_ewf_portfolio_strip.php:260
+#@ diamond-wp
+msgid "From a service"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:345
+#@ diamond-wp
+msgid "Random order"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:352
+#: framework/composer/components/vc_ewf_portfolio_grid.php:344
+#@ diamond-wp
+msgid "Number of portfolio items"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:356
+#: framework/composer/components/vc_ewf_portfolio_grid.php:347
+#@ diamond-wp
+msgid "Select the number of items you want to load"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:362
+#: framework/composer/components/vc_ewf_portfolio_grid.php:386
+#: framework/composer/components/vc_ewf_portfolio_strip.php:268
+#@ diamond-wp
+msgid "Service"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:365
+#: framework/composer/components/vc_ewf_portfolio_grid.php:389
+#: framework/composer/components/vc_ewf_portfolio_strip.php:271
+#@ diamond-wp
+msgid "Specify projects from a defined category"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:372
+#: framework/composer/components/vc_ewf_portfolio_grid.php:396
+#: framework/composer/components/vc_ewf_portfolio_strip.php:278
+#@ diamond-wp
+msgid "Projects order"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:376
+#: framework/composer/components/vc_ewf_portfolio_grid.php:400
+#@ diamond-wp
+msgid "Load projects in a Ascendent(1,2,3) or Descendent (3,2,1) order"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_portfolio_list.php:382
+#@ diamond-wp
+msgid "Choose a portfolio item from the list below"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:46
+#@ diamond-wp
+msgid "Process Horizontal"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:51
+#@ diamond-wp
+msgid "Create a horizontal list with items"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:57
+#: framework/composer/components/vc_ewf_client_logos.php:29
+#: framework/composer/components/vc_ewf_logos_list.php:28
+#: framework/composer/components/vc_ewf_process_vertical.php:53
+#: framework/composer/components/vc_ewf_slider_testimonials.php:27
+#@ diamond-wp
+msgid "Extra class name"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:59
+#: framework/composer/components/vc_ewf_client_logos.php:31
+#: framework/composer/components/vc_ewf_logos_list.php:30
+#: framework/composer/components/vc_ewf_process_vertical.php:55
+#: framework/composer/components/vc_ewf_slider_testimonials.php:29
+#@ diamond-wp
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:66
+#: framework/composer/components/vc_ewf_process_vertical.php:64
+#@ diamond-wp
+msgid "Process Item"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:78
+#: framework/composer/components/vc_ewf_button.php:102
+#: framework/composer/components/vc_ewf_headline.php:94
+#: framework/composer/components/vc_ewf_iconbox.php:176
+#: framework/composer/components/vc_ewf_pricing.php:80
+#: framework/composer/components/vc_ewf_process_vertical.php:87
+#: framework/modules/ewf-header/ewf-modHeader.php:663
+#@ diamond-wp
+msgid "Select Icon"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:81
+#: framework/composer/components/vc_ewf_process_vertical.php:91
+#@ diamond-wp
+msgid "Select the icon you want to have on the left side of the section"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:90
+#: framework/composer/components/vc_ewf_process_vertical.php:110
+#: framework/composer/components/vc_ewf_progress.php:49
+#@ diamond-wp
+msgid "The title of the progress bar"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:105
+#: framework/composer/components/vc_ewf_headline.php:112
+#: framework/composer/components/vc_ewf_process_vertical.php:116
+#@ diamond-wp
+msgid "Details"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_process_horizontal.php:108
+#: framework/composer/components/vc_ewf_process_vertical.php:119
+#@ diamond-wp
+msgid "The content of progress"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_slider_features.php:83
+#@ diamond-wp
+msgid "Slider Features"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_slider_features.php:94
+#: framework/composer/components/__vc_ewf_slider_features.php:102
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:57
+#: framework/composer/components/vc_ewf_diamond.php:47
+#: framework/composer/components/vc_ewf_logo.php:62
+#: framework/composer/components/vc_ewf_team_member.php:232
+#: framework/composer/components/vc_ewf_testimonial.php:104
+#@ diamond-wp
+msgid "Image"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_slider_features.php:96
+#@ diamond-wp
+msgid "Select the image overlay"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_slider_features.php:104
+#@ diamond-wp
+msgid "Select the images from the slider"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:10
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:67
+#: framework/composer/components/vc_ewf_team_member.php:254
+#: framework/composer/components/vc_ewf_testimonial.php:11
+#: framework/composer/components/vc_ewf_testimonial.php:127
+#@ diamond-wp
+msgid "Sample Name"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:11
+#: framework/composer/components/vc_ewf_testimonial.php:12
+#@ diamond-wp
+msgid "Client"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:48
+#@ diamond-wp
+msgid "Testimonial Alternative"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:52
+#@ diamond-wp
+msgid "Add a testimonial title, image and description"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:59
+#@ diamond-wp
+msgid "Add an image at the bottom of the testimonial"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:65
+#: framework/composer/components/vc_ewf_team_member.php:252
+#: framework/composer/components/vc_ewf_testimonial.php:125
+#@ diamond-wp
+msgid "Name"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:68
+#: framework/composer/components/vc_ewf_testimonial.php:128
+#@ diamond-wp
+msgid "Specify the the name of the testimonial author"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:74
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:76
+#: framework/composer/components/vc_ewf_piechart.php:50
+#: framework/composer/components/vc_ewf_testimonial.php:134
+#: framework/composer/components/vc_ewf_testimonial.php:136
+#: framework/functions-menus.php:411
+#: framework/modules/ewf-header/ewf-modHeader.php:934
+#@ diamond-wp
+msgid "Description"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:77
+#: framework/composer/components/vc_ewf_testimonial.php:137
+#@ diamond-wp
+msgid "Specify a description of the author"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:83
+#: framework/composer/components/vc_ewf_testimonial.php:93
+#: framework/composer/components/vc_ewf_testimonial.php:143
+#@ diamond-wp
+msgid "Testimonial"
+msgstr ""
+
+#: framework/composer/components/__vc_ewf_testimonial_adv.php:86
+#: framework/composer/components/vc_ewf_testimonial.php:146
+#@ diamond-wp
+msgid "Specify the text of the testimonial"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:81
+#@ diamond-wp
+msgid "Button"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:85
+#@ diamond-wp
+msgid "Customizable button with text and icon"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:93
+#@ diamond-wp
+msgid "Link title & URL"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:96
+#@ diamond-wp
+msgid "Specify the link pointing to another page"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:105
+#@ diamond-wp
+msgid "Select the icon you want"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:111
+#@ diamond-wp
+msgid "Button Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:114
+#: framework/composer/components/vc_ewf_message_box.php:27
+#@ diamond-wp
+msgid "Default"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:115
+#@ diamond-wp
+msgid "Black"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:116
+#@ diamond-wp
+msgid "White"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:117
+#@ diamond-wp
+msgid "Custom color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:119
+#: framework/composer/components/vc_ewf_button.php:131
+#@ diamond-wp
+msgid "Specify the type size of the button"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:125
+#@ diamond-wp
+msgid "Button Size"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:128
+#@ diamond-wp
+msgid "Small"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:129
+#@ diamond-wp
+msgid "Large"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:137
+#@ diamond-wp
+msgid "Icon position"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:140
+#: framework/composer/components/vc_ewf_iconbox.php:221
+#@ diamond-wp
+msgid "Left"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:141
+#: framework/composer/components/vc_ewf_iconbox.php:221
+#@ diamond-wp
+msgid "Right"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:143
+#@ diamond-wp
+msgid "Specify the position of the icon"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:149
+#@ diamond-wp
+msgid "Button Border Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:152
+#@ diamond-wp
+msgid "Select the border color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:159
+#@ diamond-wp
+msgid "Button Background Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:162
+#@ diamond-wp
+msgid "Select the color of the text on button"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:169
+#@ diamond-wp
+msgid "Button Text Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_button.php:172
+#@ diamond-wp
+msgid "Select the color of the button"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_client_logos.php:18
+#@ diamond-wp
+msgid "Client Logos"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_diamond.php:36
+#@ diamond-wp
+msgid "Diamond Shape Image"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_diamond.php:49
+#@ diamond-wp
+msgid "Add the image of in the diamond shape"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_divider.php:23
+#@ diamond-wp
+msgid "Divider"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_divider.php:27
+#@ diamond-wp
+msgid "Use it to divide content"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_divider.php:35
+#@ diamond-wp
+msgid "Dividing Height"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_divider.php:38
+#@ diamond-wp
+msgid "Specify the height this block should have"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_headline.php:83
+#@ diamond-wp
+msgid "Headline"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_headline.php:97
+#: framework/composer/components/vc_ewf_iconbox.php:179
+#@ diamond-wp
+msgid "Select the icon you want to have at the top of the section"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_headline.php:106
+#@ diamond-wp
+msgid "Specify the text of the headline"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_headline.php:114
+#@ diamond-wp
+msgid "Sample details field from here"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_headline.php:115
+#@ diamond-wp
+msgid "Specify the detaild text of the headline"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:156
+#@ diamond-wp
+msgid "Icon Box"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:161
+#@ diamond-wp
+msgid "Add an icon box, with icon and description"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:170
+#@ diamond-wp
+msgid "The service title"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:185
+#@ diamond-wp
+msgid "Iconbox Style"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:204
+#@ diamond-wp
+msgid "Add description text for the service"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:210
+#@ diamond-wp
+msgid "Read more link"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:213
+#@ diamond-wp
+msgid "Specify an optional link to another page"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:219
+#@ diamond-wp
+msgid "Read more link placement"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:221
+#@ diamond-wp
+msgid "Center"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_iconbox.php:222
+#@ diamond-wp
+msgid "How the read more link should be aligned inside of iconbox"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logo.php:51
+#@ diamond-wp
+msgid "Client logo"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logo.php:64
+#@ diamond-wp
+msgid "Add the logo image"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logo.php:70
+#@ diamond-wp
+msgid "Link"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logo.php:73
+#@ diamond-wp
+msgid "Specify an optional link pointing to an URL"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logos_list.php:17
+#@ diamond-wp
+msgid "Client Logos List"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_logos_list.php:22
+#: framework/composer/components/vc_ewf_slider_testimonials.php:21
+#@ diamond-wp
+msgid "Create a slider with testimonials"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:8
+#: framework/composer/components/vc_ewf_map.php:22
+#@ diamond-wp
+msgid "Google Map"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:25
+#@ diamond-wp
+msgid "Add Google Map section"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:33
+#@ diamond-wp
+msgid "Address"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:36
+#@ diamond-wp
+msgid "The address where the map is centered"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:42
+#@ diamond-wp
+msgid "Pinpoint caption"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:44
+#@ diamond-wp
+msgid "Sample caption here"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:45
+#@ diamond-wp
+msgid "Specify text that will appear when you click on the pin"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:51
+#: framework/functions-type-project.php:262
+#@ diamond-wp
+msgid "Zoom"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_map.php:54
+#@ diamond-wp
+msgid "Specify a zoom value between 5 and 20"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:7
+#@ diamond-wp
+msgid "Info"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:12
+#@ diamond-wp
+msgid "Success"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:17
+#@ diamond-wp
+msgid "Warning"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:22
+#@ diamond-wp
+msgid "Error"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:54
+#@ diamond-wp
+msgid "Message box"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:58
+#@ diamond-wp
+msgid "Use to display notices, warnings, alerts"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:65
+#@ diamond-wp
+msgid "Message type"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:68
+#@ diamond-wp
+msgid "Specify"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_message_box.php:77
+#@ diamond-wp
+msgid "Specify the content of the message"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:64
+#@ diamond-wp
+msgid "Milestone"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:68
+#@ diamond-wp
+msgid "Animated count from 0 to specified number"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:78
+#@ diamond-wp
+msgid "The milestone title"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:84
+#@ diamond-wp
+msgid "Milestone Style"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:99
+#@ diamond-wp
+msgid "The final value will animate to, from 0 to the number provided by you"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:105
+#@ diamond-wp
+msgid "Symbol"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:108
+#@ diamond-wp
+msgid "Add an extra letter aside the milestone number, ex: %, #"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:114
+#@ diamond-wp
+msgid "Speed"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:117
+#@ diamond-wp
+msgid "Specify the animation speed"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_milestone.php:123
+#@ diamond-wp
+msgid "Milestone details"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:8
+#: framework/composer/components/vc_ewf_progress.php:8
+#@ diamond-wp
+msgid "Sample progress bar"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:39
+#@ diamond-wp
+msgid "Pie Chart"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:53
+#@ diamond-wp
+msgid "A description of what the chart represents"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:68
+#: framework/composer/components/vc_ewf_progress.php:55
+#@ diamond-wp
+msgid "Value"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:71
+#: framework/composer/components/vc_ewf_progress.php:58
+#@ diamond-wp
+msgid "Specify a value between 1 and 100, it represents the loaded percentage"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:77
+#@ diamond-wp
+msgid "Width"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:80
+#@ diamond-wp
+msgid "Represents the width of the piechart measured in pixels"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:86
+#@ diamond-wp
+msgid "Line width"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:89
+#@ diamond-wp
+msgid "Represents the thickness of the piechart"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:95
+#@ diamond-wp
+msgid "Piechart Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:98
+#: framework/composer/components/vc_ewf_progress.php:67
+#@ diamond-wp
+msgid "Select the color of the bar"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:104
+#@ diamond-wp
+msgid "Track Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_piechart.php:107
+#@ diamond-wp
+msgid "Select the color of the track"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:333
+#@ diamond-wp
+msgid "Portfolio Grid"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:337
+#: framework/composer/components/vc_ewf_portfolio_strip.php:249
+#@ diamond-wp
+msgid "Add a full width row with porftolio items"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:353
+#@ diamond-wp
+msgid "Prortfolio grid layout"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:356
+#@ diamond-wp
+msgid "3 Columns"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:357
+#@ diamond-wp
+msgid "4 Columns"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:367
+#: framework/composer/components/vc_ewf_portfolio_strip.php:261
+#: framework/composer/components/vc_ewf_portfolio_strip.php:283
+#@ diamond-wp
+msgid "Random"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:373
+#@ diamond-wp
+msgid "Navigation"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:376
+#@ diamond-wp
+msgid "Don't show navigation"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:377
+#@ diamond-wp
+msgid "Show navigation on left"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:378
+#@ diamond-wp
+msgid "Show navigation on right"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_grid.php:379
+#@ diamond-wp
+msgid "Show navigation on center"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:60
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:335
+#@ diamond-wp
+msgid "Load more"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:64
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:326
+#@ diamond-wp
+msgid "All"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:295
+#@ diamond-wp
+msgid "Portfolio Isotope Grid"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:299
+#@ diamond-wp
+msgid "Portfolio Isotope"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:309
+#@ diamond-wp
+msgid "The title of the section that will be added at the left side of the filters."
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:315
+#@ diamond-wp
+msgid "Load items"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:318
+#@ diamond-wp
+msgid "Change the title of load more button."
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:324
+#@ diamond-wp
+msgid "All Label"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:327
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:336
+#@ diamond-wp
+msgid "The number of items visible initially."
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:333
+#@ diamond-wp
+msgid "'Load more' text"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:342
+#@ diamond-wp
+msgid "Portfolio Style"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:353
+#@ diamond-wp
+msgid "Display options"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:356
+#@ diamond-wp
+msgid "Title & Filters"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:357
+#@ diamond-wp
+msgid "Title only, no filters"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:358
+#@ diamond-wp
+msgid "Title only center, no filters"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:359
+#@ diamond-wp
+msgid "Only filters on left"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:360
+#@ diamond-wp
+msgid "Only filters on center"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:361
+#@ diamond-wp
+msgid "Don't show title and filters"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:368
+#@ diamond-wp
+msgid "Show 'Load More' button below the grid"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:371
+#@ diamond-wp
+msgid "Show it"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:372
+#: framework/composer/components/vc_ewf_portfolio_strip.php:297
+#@ diamond-wp
+msgid "Don't show"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:380
+#@ diamond-wp
+msgid "Load More Items"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_isogrid/vc_ewf_portfolio_isogrid.php:383
+#@ diamond-wp
+msgid "Number of items to add when you press the 'Load More' button."
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:245
+#@ diamond-wp
+msgid "Portfolio Strip"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:256
+#@ diamond-wp
+msgid "Load 5 portfolio items"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:281
+#@ diamond-wp
+msgid "Descendent"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:282
+#@ diamond-wp
+msgid "Ascendent"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:286
+#@ diamond-wp
+msgid "Load projects in a Ascendent(1,2,3), Descendent (3,2,1) order or random."
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:292
+#@ diamond-wp
+msgid "Secondary info"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:295
+#@ diamond-wp
+msgid "Project Excerpt"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:296
+#@ diamond-wp
+msgid "Project Services"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_portfolio_strip.php:299
+#@ diamond-wp
+msgid "Specify what to show below the project title"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:9
+#: framework/composer/components/vc_ewf_pricing.php:73
+#@ diamond-wp
+msgid "Starter edition"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:14
+#@ diamond-wp
+msgid "/mo"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:60
+#@ diamond-wp
+msgid "Pricing Table"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:71
+#@ diamond-wp
+msgid "Plan name"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:83
+#@ diamond-wp
+msgid "Select the icon you want to have asside plan name"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:89
+#@ diamond-wp
+msgid "Cost"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:116
+#@ diamond-wp
+msgid "Plan features (add one per line)"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:125
+#@ diamond-wp
+msgid "Read more button"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_pricing.php:128
+#@ diamond-wp
+msgid "Specify an optional link pointing to a details page"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_process_vertical.php:42
+#@ diamond-wp
+msgid "Process Vertical"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_process_vertical.php:47
+#@ diamond-wp
+msgid "Create a vertical list with items"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_process_vertical.php:75
+#@ diamond-wp
+msgid "Circle content"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_process_vertical.php:78
+#: framework/modules/ewf-header/ewf-modHeader.php:662
+#@ diamond-wp
+msgid "Icon"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_process_vertical.php:81
+#@ diamond-wp
+msgid "Select if you want a number or an icon in the circle"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_progress.php:35
+#@ diamond-wp
+msgid "Progress Bar"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_progress.php:64
+#@ diamond-wp
+msgid "Bar Color"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_slider_testimonials.php:16
+#@ diamond-wp
+msgid "Slider Testimonials"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:142
+#@ diamond-wp
+msgid "Social Icons"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:156
+#: framework/composer/components/vc_ewf_team_member.php:282
+#@ diamond-wp
+msgid "Add an optional link to Facebook profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:165
+#: framework/composer/components/vc_ewf_team_member.php:291
+#: framework/composer/components/vc_ewf_team_member.php:300
+#@ diamond-wp
+msgid "Add an optional link to Twitter profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:174
+#: framework/composer/components/vc_ewf_team_member.php:327
+#@ diamond-wp
+msgid "Add an optional link to Dribbble profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:183
+#: framework/composer/components/vc_ewf_team_member.php:309
+#@ diamond-wp
+msgid "Add an optional link to Pinterest profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:192
+#: framework/composer/components/vc_ewf_team_member.php:273
+#@ diamond-wp
+msgid "Add an optional link to Google Plus profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:201
+#@ diamond-wp
+msgid "Add an optional link to Tumblr profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:210
+#: framework/composer/components/vc_ewf_team_member.php:345
+#@ diamond-wp
+msgid "Add an optional link to Instagram profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:219
+#@ diamond-wp
+msgid "Add an optional link to a RSS feed, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:228
+#@ diamond-wp
+msgid "Add an optional link to LinkedIn profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:237
+#@ diamond-wp
+msgid "Add an optional link to Skype profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:246
+#@ diamond-wp
+msgid "Add an optional link to Xing profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:255
+#@ diamond-wp
+msgid "Add an optional link to Dropbox profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:264
+#@ diamond-wp
+msgid "Add an optional link to Windows profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:273
+#@ diamond-wp
+msgid "Add an optional link to YouTube profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:282
+#@ diamond-wp
+msgid "Add an optional link to Flickr profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:291
+#@ diamond-wp
+msgid "Add an optional link to Vimeo profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_social.php:300
+#@ diamond-wp
+msgid "Add an optional link to Github profile page, leave blank if not available"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:10
+#@ diamond-wp
+msgid "Sample job title"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:221
+#@ diamond-wp
+msgid "Team Member"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:226
+#@ diamond-wp
+msgid "Name, image and description"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:234
+#@ diamond-wp
+msgid "Add the image of the team member"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:240
+#: framework/composer/components/vc_ewf_testimonial.php:112
+#@ diamond-wp
+msgid "Style"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:255
+#@ diamond-wp
+msgid "Specify the name of the member"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:261
+#: framework/composer/components/vc_ewf_team_member.php:263
+#@ diamond-wp
+msgid "Job Title"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:351
+#@ diamond-wp
+msgid "Member details"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_team_member.php:354
+#@ diamond-wp
+msgid "Add details about the member"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_testimonial.php:97
+#@ diamond-wp
+msgid "Add a quote, image and description"
+msgstr ""
+
+#: framework/composer/components/vc_ewf_testimonial.php:106
+#@ diamond-wp
+msgid "Add an image to the right side of the testimonial"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:9
+#@ diamond-wp
+msgid "Spread full width"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:12
+#@ diamond-wp
+msgid "Expand section full width (used for sliders in general)"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:20
+#@ diamond-wp
+msgid "Add parallax efect to this section"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:23
+#@ diamond-wp
+msgid "Add parallax effect using the image added to the post"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:30
+#@ diamond-wp
+msgid "Section spacing"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:33
+#@ diamond-wp
+msgid "Remove the space between this section and the one from below"
+msgstr ""
+
+#: framework/composer/extender-vc_row.php:51
+#@ diamond-wp
+msgid "Overlay Style"
+msgstr ""
+
+#: framework/functions-blog.php:268
+#@ diamond-wp
+msgid "Older Posts"
+msgstr ""
+
+#: framework/functions-blog.php:269
+#@ diamond-wp
+msgid "Newer Posts"
+msgstr ""
+
+#: framework/functions-blog.php:324
+#@ diamond-wp
+msgid "blog archive"
+msgstr ""
+
+#: framework/functions-blog.php:493
+#@ diamond-wp
+msgid "&#8212; Read More"
+msgstr ""
+
+#: framework/functions-blog.php:761
+#@ diamond-wp
+msgid "says"
+msgstr ""
+
+#: framework/functions-blog.php:769
+#@ diamond-wp
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: framework/functions-blog.php:791
+#@ diamond-wp
+msgid "Pingback:"
+msgstr ""
+
+#: framework/functions-blog.php:791
+#: framework/functions-type-project.php:778
+#@ diamond-wp
+msgid "Edit"
+msgstr ""
+
+#: framework/functions-general.php:117
+#, php-format
+#@ _s
+msgid "Page %s"
+msgstr ""
+
+#: framework/functions-menus.php:8
+#@ diamond-wp
+msgid "Top Menu"
+msgstr ""
+
+#: framework/functions-menus.php:41
+#@ diamond-wp
+msgid "Menu not selected - Please review documentation!"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: framework/functions-menus.php:316
+#, php-format
+#@ diamond-wp
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: framework/functions-menus.php:320
+#, php-format
+#@ diamond-wp
+msgid "%s (Pending)"
+msgstr ""
+
+#: framework/functions-menus.php:333
+#@ diamond-wp
+msgid "sub item"
+msgstr ""
+
+#: framework/functions-menus.php:348
+#@ default
+msgid "Move up"
+msgstr ""
+
+#: framework/functions-menus.php:361
+#@ default
+msgid "Move down"
+msgstr ""
+
+#: framework/functions-menus.php:363
+#: framework/functions-menus.php:365
+#@ default
+#@ diamond-wp
+msgid "Edit Menu Item"
+msgstr ""
+
+#: framework/functions-menus.php:374
+#@ diamond-wp
+msgid "URL"
+msgstr ""
+
+#: framework/functions-menus.php:381
+#@ diamond-wp
+msgid "Navigation Label"
+msgstr ""
+
+#: framework/functions-menus.php:387
+#@ diamond-wp
+msgid "Title Attribute"
+msgstr ""
+
+#: framework/functions-menus.php:394
+#@ diamond-wp
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: framework/functions-menus.php:399
+#@ diamond-wp
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: framework/functions-menus.php:405
+#@ diamond-wp
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: framework/functions-menus.php:413
+#@ diamond-wp
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: framework/functions-menus.php:419
+#@ diamond-wp
+msgid "Navigation Icon"
+msgstr ""
+
+#: framework/functions-menus.php:459
+#@ diamond-wp
+msgid "Use as Mega menu"
+msgstr ""
+
+#: framework/functions-menus.php:478
+#@ diamond-wp
+msgid "Move"
+msgstr ""
+
+#: framework/functions-menus.php:479
+#@ diamond-wp
+msgid "Up one"
+msgstr ""
+
+#: framework/functions-menus.php:480
+#@ diamond-wp
+msgid "Down one"
+msgstr ""
+
+#: framework/functions-menus.php:483
+#@ diamond-wp
+msgid "To the top"
+msgstr ""
+
+#: framework/functions-menus.php:490
+#, php-format
+#@ diamond-wp
+msgid "Original: %s"
+msgstr ""
+
+#: framework/functions-menus.php:503
+#@ diamond-wp
+msgid "Remove"
+msgstr ""
+
+#: framework/functions-meta-contact.php:15
+#@ diamond-wp
+msgid "Contact details"
+msgstr ""
+
+#: framework/functions-meta-contact.php:47
+#: framework/widgets/widget-contact-info.php:76
+#@ diamond-wp
+msgid "Address:"
+msgstr ""
+
+#: framework/functions-meta-contact.php:51
+#@ diamond-wp
+msgid "Zoom:"
+msgstr ""
+
+#: framework/functions-meta-contact.php:54
+#@ diamond-wp
+msgid "Caption:"
+msgstr ""
+
+#: framework/functions-sidebars.php:10
+#@ diamond-wp
+msgid "Header widget area left"
+msgstr ""
+
+#: framework/functions-sidebars.php:10
+#@ diamond-wp
+msgid "In the header left column"
+msgstr ""
+
+#: framework/functions-sidebars.php:11
+#@ diamond-wp
+msgid "Header widget area right"
+msgstr ""
+
+#: framework/functions-sidebars.php:11
+#@ diamond-wp
+msgid "In the header right column"
+msgstr ""
+
+#: framework/functions-sidebars.php:13
+#@ diamond-wp
+msgid "Footer top widget area"
+msgstr ""
+
+#: framework/functions-sidebars.php:13
+#@ diamond-wp
+msgid "The section located above footer"
+msgstr ""
+
+#: framework/functions-sidebars.php:15
+#@ diamond-wp
+msgid "Footer widget area 1"
+msgstr ""
+
+#: framework/functions-sidebars.php:15
+#@ diamond-wp
+msgid "In the footer the left column"
+msgstr ""
+
+#: framework/functions-sidebars.php:16
+#@ diamond-wp
+msgid "Footer widget area 2"
+msgstr ""
+
+#: framework/functions-sidebars.php:16
+#@ diamond-wp
+msgid "In the footer the left center column"
+msgstr ""
+
+#: framework/functions-sidebars.php:17
+#@ diamond-wp
+msgid "Footer widget area 3"
+msgstr ""
+
+#: framework/functions-sidebars.php:17
+#@ diamond-wp
+msgid "In the footer the right center column"
+msgstr ""
+
+#: framework/functions-sidebars.php:18
+#@ diamond-wp
+msgid "Footer widget area 4"
+msgstr ""
+
+#: framework/functions-sidebars.php:18
+#@ diamond-wp
+msgid "In the footer the right column"
+msgstr ""
+
+#: framework/functions-sidebars.php:20
+#@ diamond-wp
+msgid "Footer bottom widget area 1"
+msgstr ""
+
+#: framework/functions-sidebars.php:20
+#: framework/functions-sidebars.php:21
+#: framework/functions-sidebars.php:22
+#: framework/functions-sidebars.php:23
+#@ diamond-wp
+msgid "The section located below footer"
+msgstr ""
+
+#: framework/functions-sidebars.php:21
+#@ diamond-wp
+msgid "Footer bottom widget area 2"
+msgstr ""
+
+#: framework/functions-sidebars.php:22
+#@ diamond-wp
+msgid "Footer bottom widget area 3"
+msgstr ""
+
+#: framework/functions-sidebars.php:23
+#@ diamond-wp
+msgid "Footer bottom widget area 4"
+msgstr ""
+
+#: framework/functions-type-project.php:137
+#@ diamond-wp
+msgid "Please add a featured image and/or other images in the page gallery to show the slider!"
+msgstr ""
+
+#: framework/functions-type-project.php:255
+#@ diamond-wp
+msgid "Project Details"
+msgstr ""
+
+#: framework/functions-type-project.php:256
+#@ diamond-wp
+msgid "Click on project details for more info"
+msgstr ""
+
+#: framework/functions-type-project.php:257
+#@ diamond-wp
+msgid "Go to project page"
+msgstr ""
+
+#: framework/functions-type-project.php:258
+#@ diamond-wp
+msgid "View larger version"
+msgstr ""
+
+#: framework/functions-type-project.php:259
+#: framework/widgets/widget-portfolio-filters.php:45
+#: framework/widgets/widget-portfolio-filters.php:90
+#@ diamond-wp
+msgid "All Work"
+msgstr ""
+
+#: framework/functions-type-project.php:260
+#@ diamond-wp
+msgid "View large"
+msgstr ""
+
+#: framework/functions-type-project.php:261
+#@ diamond-wp
+msgid "&#8212; View project"
+msgstr ""
+
+#: framework/functions-type-project.php:263
+#@ diamond-wp
+msgid "Read More"
+msgstr ""
+
+#: framework/functions-type-project.php:569
+#@ diamond-wp
+msgid "&laquo; Previous"
+msgstr ""
+
+#: framework/functions-type-project.php:573
+#@ diamond-wp
+msgid "Next &raquo;"
+msgstr ""
+
+#: framework/functions-type-project.php:663
+#: framework/functions-type-project.php:665
+#: framework/functions-type-project.php:689
+#@ diamond-wp
+msgid "&#8249; Previous"
+msgstr ""
+
+#: framework/functions-type-project.php:671
+#: framework/functions-type-project.php:673
+#: framework/functions-type-project.php:690
+#@ diamond-wp
+msgid "Next &#8250;"
+msgstr ""
+
+#: framework/functions-type-project.php:774
+#@ diamond-wp
+msgid "Projects"
+msgstr ""
+
+#: framework/functions-type-project.php:775
+#@ diamond-wp
+msgid "Project"
+msgstr ""
+
+#: framework/functions-type-project.php:776
+#@ diamond-wp
+msgid "Add New"
+msgstr ""
+
+#: framework/functions-type-project.php:777
+#@ diamond-wp
+msgid "Add New Project"
+msgstr ""
+
+#: framework/functions-type-project.php:779
+#@ diamond-wp
+msgid "Edit Project"
+msgstr ""
+
+#: framework/functions-type-project.php:780
+#@ diamond-wp
+msgid "New Project"
+msgstr ""
+
+#: framework/functions-type-project.php:781
+#: framework/functions-type-project.php:782
+#@ diamond-wp
+msgid "View Project"
+msgstr ""
+
+#: framework/functions-type-project.php:783
+#@ diamond-wp
+msgid "Search Projects"
+msgstr ""
+
+#: framework/functions-type-project.php:784
+#@ diamond-wp
+msgid "No projects found"
+msgstr ""
+
+#: framework/functions-type-project.php:785
+#@ diamond-wp
+msgid "No projects found in Trash"
+msgstr ""
+
+#: framework/functions-type-project.php:786
+#@ diamond-wp
+msgid "Parent project"
+msgstr ""
+
+#: framework/functions-type-project.php:803
+#@ diamond-wp
+msgid "Services"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:303
+#: framework/modules/ewf-header/ewf-modHeader.php:306
+#@ diamond-wp
+msgid "Page header"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:457
+#@ diamond-wp
+msgid "Use page header"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:467
+#@ diamond-wp
+msgid "Templates"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:485
+#@ diamond-wp
+msgid "Keep in mind that these settings are global"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:523
+#@ diamond-wp
+msgid "Get header settings from other page"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:599
+#@ diamond-wp
+msgid "Upload Image"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:600
+#@ diamond-wp
+msgid "Remove Image"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:653
+#@ diamond-wp
+msgid "No Icon"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:663
+#@ diamond-wp
+msgid "Remove Icon"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:722
+#@ diamond-wp
+msgid "Add a parallax effect to header"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:733
+#@ diamond-wp
+msgid "Use header from another page"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:777
+#@ diamond-wp
+msgid "Header Title"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:777
+#@ diamond-wp
+msgid "Page Title"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:777
+#: framework/modules/ewf-header/ewf-modHeader.php:941
+#@ diamond-wp
+msgid "Page excerpt"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:856
+#: framework/modules/ewf-header/ewf-modHeader.php:939
+#@ diamond-wp
+msgid "Custom text"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:940
+#@ diamond-wp
+msgid "Page title"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:1012
+#@ diamond-wp
+msgid "Get the header image and title from another page"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:1257
+#@ diamond-wp
+msgid "The page has no header title"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:1261
+#@ diamond-wp
+msgid "The page has no title"
+msgstr ""
+
+#: framework/modules/ewf-header/ewf-modHeader.php:1265
+#@ diamond-wp
+msgid "The page has no excerpt"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:14
+#@ diamond-wp
+msgid "Page Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:20
+#@ diamond-wp
+msgid "Blog Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:21
+#@ diamond-wp
+msgid "Services Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:22
+#@ diamond-wp
+msgid "About Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:23
+#@ diamond-wp
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:24
+#@ diamond-wp
+msgid "Contact Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:261
+#@ diamond-wp
+msgid "Page layout & sidebars"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:274
+#@ diamond-wp
+msgid "Sidebar Left"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:279
+#@ diamond-wp
+msgid "No Sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:284
+#@ diamond-wp
+msgid "Sidebar Right"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:307
+#@ diamond-wp
+msgid "Sidebars"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:317
+#@ diamond-wp
+msgid "Choose the position the sidebar should have on the page"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:381
+#@ diamond-wp
+msgid "Choose from the existing sidebars, the one you want this page to use."
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:408
+#@ diamond-wp
+msgid "Use sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:418
+#@ diamond-wp
+msgid "You can choose the page layout from by clicking one for the following icons."
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:449
+#: framework/modules/ewf-layout/ewf-modLayout.php:486
+#@ diamond-wp
+msgid "Specify the sidebar title"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:449
+#: framework/modules/ewf-layout/ewf-modLayout.php:486
+#@ diamond-wp
+msgid "Sidebar title"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:450
+#: framework/modules/ewf-layout/ewf-modLayout.php:487
+#@ diamond-wp
+msgid "Add a sidebar description"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:450
+#: framework/modules/ewf-layout/ewf-modLayout.php:487
+#@ diamond-wp
+msgid "Sidebar description"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:460
+#: framework/modules/ewf-layout/ewf-modLayout.php:467
+#@ diamond-wp
+msgid "Create sidebar"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:477
+#@ diamond-wp
+msgid "Are you sure you want to delete sidebar: <strong>Blog Sidebar</strong>"
+msgstr ""
+
+#: framework/modules/ewf-layout/ewf-modLayout.php:481
+#@ diamond-wp
+msgid "Delete sidebar"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:196
+#: framework/plugins/plugins-required.php:47
+#@ diamond-wp
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:197
+#: framework/plugins/plugins-required.php:48
+#@ diamond-wp
+msgid "Install Plugins"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:198
+#: framework/plugins/plugins-required.php:49
+#, php-format
+#@ diamond-wp
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:199
+#@ diamond-wp
+msgid "Something went wrong."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:200
+#: framework/plugins/plugins-required.php:51
+#, php-format
+#@ diamond-wp
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:201
+#: framework/plugins/plugins-required.php:52
+#, php-format
+#@ diamond-wp
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:202
+#: framework/plugins/plugins-required.php:53
+#, php-format
+#@ diamond-wp
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:203
+#: framework/plugins/plugins-required.php:54
+#, php-format
+#@ diamond-wp
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:204
+#: framework/plugins/plugins-required.php:55
+#, php-format
+#@ diamond-wp
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:205
+#: framework/plugins/plugins-required.php:56
+#, php-format
+#@ diamond-wp
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:206
+#: framework/plugins/plugins-required.php:57
+#, php-format
+#@ diamond-wp
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:207
+#: framework/plugins/plugins-required.php:58
+#, php-format
+#@ diamond-wp
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:208
+#: framework/plugins/plugins-required.php:59
+#@ diamond-wp
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:209
+#@ diamond-wp
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:210
+#: framework/plugins/plugins-required.php:61
+#@ diamond-wp
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:211
+#@ diamond-wp
+msgid "Return to the dashboard"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:212
+#: framework/plugins/plugins-activation.php:1951
+#: framework/plugins/plugins-required.php:62
+#@ diamond-wp
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:214
+#, php-format
+#@ diamond-wp
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:215
+#@ diamond-wp
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:544
+#: framework/plugins/plugins-activation.php:2168
+#@ diamond-wp
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1174
+#@ diamond-wp
+msgid "Private Repository"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1177
+#@ diamond-wp
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1182
+#@ diamond-wp
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1185
+#@ diamond-wp
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1185
+#@ diamond-wp
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1188
+#@ diamond-wp
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1190
+#@ diamond-wp
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1290
+#: framework/plugins/plugins-activation.php:1398
+#@ diamond-wp
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1312
+#: framework/plugins/plugins-activation.php:1399
+#@ diamond-wp
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1361
+#, php-format
+#@ diamond-wp
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1377
+#@ diamond-wp
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1378
+#@ diamond-wp
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1379
+#@ diamond-wp
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1380
+#@ diamond-wp
+msgid "Status"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1508
+#@ diamond-wp
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1616
+#@ diamond-wp
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: framework/plugins/plugins-activation.php:1638
+#: framework/plugins/plugins-activation.php:213
+#@ diamond-wp
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-activation.php:1934
+#@ diamond-wp
+msgid "Install package not available."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1935
+#, php-format
+#@ diamond-wp
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1936
+#@ diamond-wp
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1937
+#@ diamond-wp
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1938
+#@ diamond-wp
+msgid "Plugin install failed."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1939
+#@ diamond-wp
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:1950
+#@ diamond-wp
+msgid "Plugin activation failed."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2064
+#@ diamond-wp
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2065
+#, php-format
+#@ diamond-wp
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2065
+#: framework/plugins/plugins-activation.php:2074
+#@ diamond-wp
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2065
+#: framework/plugins/plugins-activation.php:2074
+#@ diamond-wp
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2066
+#@ diamond-wp
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2067
+#, php-format
+#@ diamond-wp
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2071
+#@ diamond-wp
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2072
+#, php-format
+#@ diamond-wp
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2073
+#, php-format
+#@ diamond-wp
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2074
+#, php-format
+#@ diamond-wp
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2075
+#@ diamond-wp
+msgid "All installations have been completed."
+msgstr ""
+
+#: framework/plugins/plugins-activation.php:2076
+#, php-format
+#@ diamond-wp
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/plugins-required.php:50
+#@ diamond-wp
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: framework/plugins/plugins-required.php:60
+#@ diamond-wp
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/plugins-required.php:63
+#, php-format
+#@ diamond-wp
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:8
+#@ diamond-wp
+msgid "A widget that displays a call to action section"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:10
+#@ diamond-wp
+msgid "EWF - Call to action"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:74
+#@ diamond-wp
+msgid "Button title:"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:79
+#@ diamond-wp
+msgid "Button link:"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:84
+#: framework/widgets/widget-contact-form.php:58
+#: framework/widgets/widget-contact-info.php:71
+#: framework/widgets/widget-flickr.php:62
+#: framework/widgets/widget-latest-posts.php:112
+#: framework/widgets/widget-latest-tweets.php:55
+#: framework/widgets/widget-social-media.php:118
+#@ diamond-wp
+msgid "Title:"
+msgstr ""
+
+#: framework/widgets/widget-call-to-action.php:89
+#@ diamond-wp
+msgid "Description:"
+msgstr ""
+
+#: framework/widgets/widget-contact-form.php:7
+#@ diamond-wp
+msgid "A widget that displays a contact form created with Contact Form 7"
+msgstr ""
+
+#: framework/widgets/widget-contact-form.php:9
+#@ diamond-wp
+msgid "EWF - Contact Form 7"
+msgstr ""
+
+#: framework/widgets/widget-contact-form.php:63
+#@ diamond-wp
+msgid "Contact Form:"
+msgstr ""
+
+#: framework/widgets/widget-contact-info.php:8
+#: framework/widgets/widget-flickr.php:8
+#@ diamond-wp
+msgid "A widget that displays brochure item"
+msgstr ""
+
+#: framework/widgets/widget-contact-info.php:10
+#@ diamond-wp
+msgid "EWF - Contact Info"
+msgstr ""
+
+#: framework/widgets/widget-contact-info.php:81
+#@ diamond-wp
+msgid "E-mail:"
+msgstr ""
+
+#: framework/widgets/widget-contact-info.php:86
+#@ diamond-wp
+msgid "Phone:"
+msgstr ""
+
+#: framework/widgets/widget-flickr.php:10
+#@ diamond-wp
+msgid "EWF - Flickr"
+msgstr ""
+
+#: framework/widgets/widget-flickr.php:67
+#@ diamond-wp
+msgid "Gallery or User ID:"
+msgstr ""
+
+#: framework/widgets/widget-flickr.php:72
+#@ diamond-wp
+msgid "Number of items:"
+msgstr ""
+
+#: framework/widgets/widget-latest-posts.php:8
+#@ diamond-wp
+msgid "A widget that displays popular posts from blog"
+msgstr ""
+
+#: framework/widgets/widget-latest-posts.php:10
+#@ diamond-wp
+msgid "EWF - Latest Posts"
+msgstr ""
+
+#: framework/widgets/widget-latest-posts.php:117
+#: framework/widgets/widget-latest-tweets.php:65
+#@ diamond-wp
+msgid "How many post to show:"
+msgstr ""
+
+#: framework/widgets/widget-latest-tweets.php:8
+#@ diamond-wp
+msgid "A widget that displays latest tweets from a specified account"
+msgstr ""
+
+#: framework/widgets/widget-latest-tweets.php:10
+#@ diamond-wp
+msgid "EWF - Latest Tweets"
+msgstr ""
+
+#: framework/widgets/widget-latest-tweets.php:60
+#@ diamond-wp
+msgid "Twitter account ID:"
+msgstr ""
+
+#: framework/widgets/widget-navigation.php:8
+#: framework/widgets/widget-portfolio-filters.php:8
+#@ diamond-wp
+msgid "A widget that displays sub pages navigation"
+msgstr ""
+
+#: framework/widgets/widget-navigation.php:10
+#@ diamond-wp
+msgid "EWF - Navigation"
+msgstr ""
+
+#: framework/widgets/widget-navigation.php:96
+#: framework/widgets/widget-portfolio-filters.php:94
+#@ diamond-wp
+msgid "Section title:"
+msgstr ""
+
+#: framework/widgets/widget-navigation.php:122
+#@ diamond-wp
+msgid "Show parent"
+msgstr ""
+
+#: framework/widgets/widget-portfolio-filters.php:10
+#@ diamond-wp
+msgid "EWF - Project Filter"
+msgstr ""
+
+#: framework/widgets/widget-portfolio-filters.php:99
+#@ diamond-wp
+msgid "All Work Title:"
+msgstr ""
+
+#: framework/widgets/widget-portfolio-filters.php:105
+#@ diamond-wp
+msgid "Show portfolio link"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:8
+#@ diamond-wp
+msgid "A widget that displays social media icons designed for header top"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:10
+#@ diamond-wp
+msgid "EWF - Social Media"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:123
+#@ diamond-wp
+msgid "Facebook profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:128
+#@ diamond-wp
+msgid "Twitter profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:133
+#@ diamond-wp
+msgid "Google Plus profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:138
+#@ diamond-wp
+msgid "Pinterest profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:143
+#@ diamond-wp
+msgid "YouTube profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:148
+#@ diamond-wp
+msgid "Dribbble profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:153
+#@ diamond-wp
+msgid "Tumblr profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:158
+#@ diamond-wp
+msgid "Instagram profile URL:"
+msgstr ""
+
+#: framework/widgets/widget-social-media.php:163
+#@ diamond-wp
+msgid "RSS Feed URL:"
+msgstr ""
+
+#: search.php:13
+#@ diamond-wp
+msgid "The search for"
+msgstr ""
+
+#: search.php:13
+#@ diamond-wp
+msgid "returned no posts."
+msgstr ""
+
+#: search.php:15
+#@ diamond-wp
+msgid "Search results for"
+msgstr ""
+
+#: templates/blog-item-default.php:86
+#@ diamond-wp
+msgid "Tags"
+msgstr ""
+
