@@ -1,0 +1,2 @@
+# skyboundseo
+SkyBoundSEO repo
